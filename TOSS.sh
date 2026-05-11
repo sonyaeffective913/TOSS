@@ -37,7 +37,7 @@ done_msg() { echo -e "\n${green}[✔] Done.${clear}\n"; }
 # CATEGORY 1 - Passive & Active Reconnaissance
 
 install_osint_social_media(){
-apt update
+apt_update
 pip_install sherlock-project
 pip_install maigret
 pip_install instaloader
