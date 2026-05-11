@@ -130,6 +130,9 @@ This is effectively Kali Linux's toolset running inside a ghost — it exists on
 
 ## 🚀 Quick Start
 
+> ⚠️ **Prerequisites:** Before installing or proceeding with the script, please install `python3-pip` and `golang` for a successful installation.
+> Run: `sudo apt install python3-pip golang -y`
+
 ```bash
 # Step 1 — Create your Tails USB
 # Download from https://tails.boum.org and flash to USB with Balena Etcher
